@@ -1,0 +1,1 @@
+It will evaluate to true because JS compares the first numbers and 1 is less than nine so it evaluates true and stops comparing.
