@@ -1,0 +1,1 @@
+<i>'foo' === 'Foo' will evaluate to false.</i>
